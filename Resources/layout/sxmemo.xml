@@ -1,0 +1,8 @@
+﻿<?xml version="1.0"?>
+<uitree>
+  <KPopupWindow objectName="MyWindow" size="300,200" backgroundColor="255,255,0,128" windowStyle="ToolWindow|NoFrame">
+    <KSpacer layout="Anchor">
+      <KTextEdit objectName="memoEdit" anchor="Left:0|Top:0|Right:0|Bottom:0" readOnly="true" dragPolicy="WindowMove" editDrag="DragAtNoContent"/>
+    </KSpacer>
+  </KPopupWindow>
+</uitree>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<uitree>
+  <KDialog objectName="MyWindow" backgroundColor="155,155,0,200" fixSize="200,150" titlebar.title="设置" windowStyle="ToolWindow">
+    <KWidget layout="VBox" margins="20,20,20,10" backgroundColor="255,255,255,128">
+      <KCheckButton objectName="desktop" text="桌面图标" fixHeight="20" autoAdjust="true"/>
+      <KCheckButton objectName="launch" text="快速启动图标" fixHeight="20" autoAdjust="true"/>
+      <KSpacer fixHeight="10"/>
+      <KSpacer layout="HBox" fixHeight="25">
+        <KSpacer/>
+        <KPushButton objectName="idok" fixWidth="50" text="确定"/>
+        <KSpacer spacing="20"/>
+        <KPushButton objectName="idcancel" fixWidth="50" text="取消"/>
+        <KSpacer/>
+      </KSpacer>      
+    </KWidget>
+  </KDialog>
+</uitree>

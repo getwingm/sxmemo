@@ -1,0 +1,4 @@
+﻿<?xml version="1.0"?>
+<uiskin>
+  <KPopupWindow name="MyWindow" size="300,200" visible="true" windowStyle="MainWindow|NoFrame"/>
+</uiskin>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0"?>
+<uitree>
+  <KDialog objectName="MyWindow" backgroundColor="155,155,0,200" fixSize="300,150" titlebar.title="关于..." windowStyle="ToolWindow">
+    <KSpacer layout="VBox" margins="10,20,10,10">
+      <KTextItem objectName="aboutText" layout="VBox"/>
+    </KSpacer>
+  </KDialog>
+</uitree>
